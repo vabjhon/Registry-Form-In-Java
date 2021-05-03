@@ -1,2 +1,8 @@
-# Registry-Form-In-Java
-Registration form in java using swing 
+# Project-Label-in-java
+Label using swing in java 
+JButton
+JButtongroup
+JFrame
+JLabel
+JTextField
+JPasswordField
